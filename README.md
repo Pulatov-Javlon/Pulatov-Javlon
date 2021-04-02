@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python/Django
+- 🌱 I’m working with Python/Django, JS
 - 📫 How to reach me: javlon_pulatov@mail.ru
 - ⚡ Fun fact: Coder with muscles
 
